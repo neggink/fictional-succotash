@@ -987,9 +987,7 @@ will download the data.**
     top button on the side toolbar, to add Shapefile layers that can be
     viewed on the *Recent Projects* window.
 
-<img src="media/image1.png" style="width:5.83333in;height:3.00891in"
-alt="QGIS main menu with black box around Data Source Manage icon on the left side toolbar." />
-
+![](shapefile1.png)
 *QGIS main menu with black box around Data Source Manage icon on the
 left side toolbar.*
 
@@ -998,17 +996,14 @@ left side toolbar.*
     example. Choose **Add** to add the Shapefile layer and **Close** to
     get back to the main menu.
 
-<img src="media/image2.png" style="width:5.83333in;height:3.08292in"
-alt="Data Source Manager menu with Vector selected" />
-
+![](shapefile2.png)
 *Data Source Manager menu with Vector selected*
 
 Note: Although there are multiple files in a Shapefile layer, you only
 need to select the .shp extension to retrieve all files associated with
 the protected area layer.
 
-<img src="media/image3.png" style="width:3.95309in;height:3in" />
-
+![](shapefile3.png)
 *Selecting protected areas Shapefile with .shp extension*
 
 #### View Shapefile Layers with geographies and labels
@@ -1018,9 +1013,7 @@ the protected area layer.
     button again. These external layers can be added for comparison,
     review, and to provide additional context.
 
-<img src="media/image4.png" style="width:5.83333in;height:2.83281in"
-alt="Protected area map with one layer" />
-
+![](shapefile4.png)
 *Protected area map with one layer*
 
 4.  The external places, water, and river layers have been added. Right
@@ -1031,9 +1024,7 @@ alt="Protected area map with one layer" />
     georeference errors, and complete or accurate names. To focus on a
     specific layer, uncheck the other layers.
 
-<img src="media/image5.png" style="width:5.83333in;height:2.40421in"
-alt="Protected area map with multiple layers and names" />
-
+![](shapefile5.png)
 *Protected area map with multiple layers and names*
 
 Note: It may be helpful to use the QuickMapServices (QMS) plugin to
@@ -1044,8 +1035,7 @@ Plugins</u>](https://docs.qgis.org/latest/en/docs/training_manual/qgis_plugins/p
 and the [<u>QMS
 homepage</u>](https://nextgis.com/blog/quickmapservices/).
 
-<img src="media/image6.png" style="width:4.92632in;height:3in" />
-
+![](shapefile6.png)
 *QuickMapServices dropdown menu with selected Open Street Map (OSM)
 Standard basemap.*
 
@@ -1057,17 +1047,13 @@ Standard basemap.*
     Reference System* information. The same information is on the
     *Properties Layer Metadata* tab (not shown).
 
-<img src="media/image7.png" style="width:5.83333in;height:3.65562in"
-alt="Layer Properties menu with Information selected for protected area with Coordinate Reference System details" />
-
+![](shapefile7.png)
 *Layer Properties menu with Information selected for protected area with
 Coordinate Reference System details*
 
 6.  Scroll down to see *Fields* on the *Properties Information* tab.
 
-<img src="media/image8.png" style="width:5.83333in;height:2.72026in"
-alt="Layer Properties menu with Information selected for protected area with Fields list" />
-
+![](shapefile8.png)
 *Layer Properties menu with Information selected for protected area with
 Fields list*
 
@@ -1078,9 +1064,7 @@ Fields list*
     metadata, and/or a separate data dictionary or codebook to make sure
     all variables are defined.
 
-<img src="media/image9.png" style="width:5.83333in;height:2.66178in"
-alt="Layer Properties menu from Browser panel for protected areas with Attributes tab selected" />
-
+![](shapefile9.png)
 *Layer Properties menu from Browser panel for protected areas with
 Attributes tab selected*
 
