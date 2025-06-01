@@ -3,6 +3,11 @@
 
 # Shapefile Curation Primer
 
+Authors: Laura Hjerpe - University of Virginia Library, Karl Benedict - University of New Mexico, Wenjie Wang - University of Nebraska–Lincoln
+
+Mentor: Aditya Ranganath 
+
+
 ## Overview
 
 | Topic  | Description  |
@@ -16,6 +21,97 @@
 | Date Created  | June 24, 2024  |
 | Created by  | Laura Hjerpe, Karl Benedict, Wenjie Wang  |
 | Date updated and summary of changes made  | 2024-07-31 Peer review version completed |
+
+# Table of Contents
+
+[Shapefiles within the broader context of Spatial Data formats](#Shapefiles-within-the-broader-context-of-Spatial-Data-formats)
+
+[Examples of Geospatial Repositories through which Shapefiles May be Discovered and Accessed](#Examples-of-Geospatial-Repositories-through-which-Shapefiles-May-be-Discovered-and-Accessed)
+>[Note on the Complementary Roles of Geospatial Registries, Clearinghouses, and Repositories](#Note-on-the-Complementary-Roles-of-Geospatial-Registries,-Clearinghouses,-and-Repositories)
+
+[Shapefile Dataset Examples](#Shapefile-Dataset-Examples) 
+
+[Description of Format](#Description-of-Format)
+
+[Sample Dataset Citations](#sample-dataset-citations)
+
+[Key Questions to Ask Yourself](#key-questions-to-ask-yourself)
+
+[Key Clarifications To Get From Researcher](#key-clarifications-to-get-from-researcher)
+
+[Commonly Used Coordinate Systems and Projections by Region](#commonly-used-coordinate-systems-and-projections-by-region)
+
+[Applicable Metadata Standard(s), and recommended README and Core Metadata Elements](#applicable-metadata-standards-and-recommended-readme-and-core-metadata-elements)
+
+[Resources for Reviewing Data](#resources-for-reviewing-data)
+
+[Software for Viewing or Analyzing Data](#software-for-viewing-or-analyzing-data)
+>[Inspecting Shapefiles with QGIS](#inspecting-shapefiles-with-qgis)
+>>[Add a Shapefile to your QGIS Project](#add-a-shapefile-to-your-qgis-project)
+>>[View Shapefile Layers with geographies and labels](#view-shapefile-layers-with-geographies-and-labels)
+>>>[Access Layer Properties to view field and attribute information](#access-layer-properties-to-view-field-and-attribute-information)
+
+[Preservation Actions](#preservation-actions)
+
+[Documentation of Curation Process: What to Capture from the Curation Process](#documentation-of-curation-process-what-to-capture-from-the-curation-process)
+
+[What To Look for To Ensure This File Meets FAIR Principles](#what-to-look-for-to-ensure-this-file-meets-fair-principles)
+>[Findable](#findable)
+
+>[Accessible](#accessible)
+
+>[Interoperable](#interoperable)
+
+>[Reusable](#reusable)
+
+>[Additional Considerations](#additional-considerations)
+
+>[Tools and Resources](#tools-and-resources)
+
+[Ways in Which Fields May Use This Format](#ways-in-which-fields-may-use-this-format)
+
+>[Geographic Information Systems (GIS):](#geographic-information-systems-gis)
+
+>[Environmental Science and Natural Resource Management:](#environmental-science-and-natural-resource-management)
+
+>[Urban Planning and Transportation:](#urban-planning-and-transportation)
+
+>[Public Health and Epidemiology:](#public-health-and-epidemiology)
+
+>[Agriculture and Rural Development:](#agriculture-and-rural-development)
+
+>[Archaeology and Cultural Heritage Management:](#archaeology-and-cultural-heritage-management)
+
+>[Disaster Management and Emergency Response:](#disaster-management-and-emergency-response)
+
+>[Unresolved Issues/Further Questions](#unresolved-issuesfurther-questions)
+
+>>[Long-Term Preservation and Accessibility](#long-term-preservation-and-accessibility)
+
+>>[Tracking Provenance of Data Creation](#tracking-provenance-of-data-creation)
+
+>>[Level of Detail in Dataset](#level-of-detail-in-dataset)
+
+>[Warnings](#warnings)
+
+[Appendix A - Shapefile CURATE(D) checklist](#appendix-a---shapefile-curated-checklist)
+
+>[Check](#check)
+
+>[Understand](#understand)
+
+>[Request](#request)
+
+>[Augment](#augment)
+
+>[Transform](#transform)
+
+>[Evaluate](#evaluate)
+
+>[Document](#document)
+
+>[Bibliography](#bibliography)
+
 
 
 ## Shapefiles within the broader context of Spatial Data formats
@@ -854,8 +950,6 @@ applications including (a short list of many):
 
   - Open Source: [GeoServer](https://geoserver.org/),
     [MapServer](https://mapserver.org/)
-
-<!-- -->
 
 - Metadata Creation/Management
 
