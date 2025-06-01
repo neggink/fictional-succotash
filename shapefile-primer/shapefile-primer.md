@@ -988,6 +988,7 @@ will download the data.**
     viewed on the *Recent Projects* window.
 
 ![](shapefile1.png)
+
 *QGIS main menu with black box around Data Source Manage icon on the
 left side toolbar.*
 
@@ -997,6 +998,7 @@ left side toolbar.*
     get back to the main menu.
 
 ![](shapefile2.png)
+
 *Data Source Manager menu with Vector selected*
 
 Note: Although there are multiple files in a Shapefile layer, you only
@@ -1004,6 +1006,7 @@ need to select the .shp extension to retrieve all files associated with
 the protected area layer.
 
 ![](shapefile3.png)
+
 *Selecting protected areas Shapefile with .shp extension*
 
 #### View Shapefile Layers with geographies and labels
@@ -1014,6 +1017,7 @@ the protected area layer.
     review, and to provide additional context.
 
 ![](shapefile4.png)
+
 *Protected area map with one layer*
 
 4.  The external places, water, and river layers have been added. Right
@@ -1025,6 +1029,7 @@ the protected area layer.
     specific layer, uncheck the other layers.
 
 ![](shapefile5.png)
+
 *Protected area map with multiple layers and names*
 
 Note: It may be helpful to use the QuickMapServices (QMS) plugin to
@@ -1036,6 +1041,7 @@ and the [<u>QMS
 homepage</u>](https://nextgis.com/blog/quickmapservices/).
 
 ![](shapefile6.png)
+
 *QuickMapServices dropdown menu with selected Open Street Map (OSM)
 Standard basemap.*
 
@@ -1048,12 +1054,14 @@ Standard basemap.*
     *Properties Layer Metadata* tab (not shown).
 
 ![](shapefile7.png)
+
 *Layer Properties menu with Information selected for protected area with
 Coordinate Reference System details*
 
 6.  Scroll down to see *Fields* on the *Properties Information* tab.
 
 ![](shapefile8.png)
+
 *Layer Properties menu with Information selected for protected area with
 Fields list*
 
@@ -1065,6 +1073,7 @@ Fields list*
     all variables are defined.
 
 ![](shapefile9.png)
+
 *Layer Properties menu from Browser panel for protected areas with
 Attributes tab selected*
 
