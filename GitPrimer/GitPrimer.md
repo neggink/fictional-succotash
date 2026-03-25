@@ -179,6 +179,7 @@ three ‘states’ at any given time (see Figure 1):
     snapshot is made, called a *commit*
 
 ![Git workflow, going from working directory to the staging area to the repository and back again](git1.png)
+
 Figure 1, [Git Stages](https://git-scm.com/about/staging-area)
 
 All this will be in a hidden \`.git\` folder, in which there are files
