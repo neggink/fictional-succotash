@@ -92,7 +92,7 @@ and verify repositories, and resources for learning more.
 | :------------- | :------------- |
 |File Extensions| There are no file extensions specifically for Git data; however, the Git data is stored in a hidden directory called `.git` in the project folder |
 |MIME Type | no official MIME type for Git repositories, but users do unofficially add `application/x-git`|
-|Structure  |<br>git/<br>├──branches<br><br>├── config<br>├── description<br>|
+|Structure |<br>git/<br>├──branches<br><br>├── config<br>├── description<br>|
 | Primary fields or areas of use | Multidisciplinary |
 | Key questions for curation review | <li>To keep the Git data as well as code and/or data or not?<li>To keep anything from the forge the Git repository was hosted in or not? |
 | Tools for curation review | [Git](https://www.git-scm.com/)|
@@ -179,6 +179,7 @@ three ‘states’ at any given time (see Figure 1):
     snapshot is made, called a *commit*
 
 ![Git workflow, going from working directory to the staging area to the repository and back again](git1.png)
+
 Figure 1, [Git Stages](https://git-scm.com/about/staging-area)
 
 All this will be in a hidden \`.git\` folder, in which there are files
