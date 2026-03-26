@@ -92,7 +92,7 @@ and verify repositories, and resources for learning more.
 | :------------- | :------------- |
 |File Extensions| There are no file extensions specifically for Git data; however, the Git data is stored in a hidden directory called `.git` in the project folder |
 |MIME Type | no official MIME type for Git repositories, but users do unofficially add `application/x-git`|
-|Structure  |<br>git/<br>├──branches<br><br>├── config<br>├── description<br><br>├── HEAD<br><br>├── hooks<br><br>├── index<br><br>├── info/<br><br>│ └── exclude<br><br>├── logs/<br><br>│ ├── HEAD/<br><br>│ └── refs/<br><br>│ ├── heads<br><br>│ └── remotes<br><br>├── objects/<br><br>│ ├── info<br><br>│ └── pack<br><br>├── packed-refs<br><br>└── refs/<br><br>├── heads<br><br>├── remotes<br><br>├── tags<br><br>├── notes<br><br>└── replace<br>|
+| Structure | git/ <br>├── branches<br><br>├── config<br> <br>├── description<br> <br>├── HEAD<br><br>├── hooks<br><br>├── index<br><br> ├── info/ <br><br>│   └── exclude <br><br>├── logs/ <br><br>│   ├── HEAD/ <br><br>│  └── refs/ <br><br>│       ├── heads <br><br>│       └── remotes <br><br>├── objects/ <br><br>│   ├── info <br><br>│   └── pack <br><br>├── packed-refs <br><br>└── refs/     <br><br>├── heads     <br><br>├── remotes     <br><br>├── tags     <br><br>├── notes     <br><br>└── replace |
 | Primary fields or areas of use | Multidisciplinary |
 | Key questions for curation review | <li>To keep the Git data as well as code and/or data or not?<li>To keep anything from the forge the Git repository was hosted in or not? |
 | Tools for curation review | [Git](https://www.git-scm.com/)|
