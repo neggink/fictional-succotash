@@ -7,6 +7,10 @@ Authors: Vicky Rampin
 Affiliate Contributors: Seth Erikson, Rémi Rampin, Jodecy Guerra\*,
 Maria Lee\*, Rachel Priesman Marquez\*
 
+Peer Reviewers: [Lucia Vedder](https://orcid.org/0000-0002-8924-9800), University of Bonn, Germany; [Marcus Schmidt](https://orcid.org/0000-0002-5546-5521), Leibniz
+Centre for Agricultural Landscape Research (ZALF), Germany; [Elena Rey Mazón](https://orcid.org/0000-0003-4813-5927), Leibniz Institute of Plant Genetics and Crop Plant 
+Research (IPK), Germany; [Fernando Rios](https://orcid.org/0000-0001-6262-3260), University of Arizona, USA
+
 DCN Mentor: Shawna Taylor
 
 \**This project was partially funded by Federal funds from the National
